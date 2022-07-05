@@ -19,7 +19,7 @@ All code can be executed in MATLAB environment:
 
 * Task1: Feeding our designed control input ((ROB535_ControlProject_part1_input.mat) into the system function(forwardIntegrateControlInput), we can get the trajectory information. We will display the trajectory path using the red line.
 
-* Task2: The result is info_result.png and .png
+* Task2: The result is info_result.png and result.png. The red dot are obstacles randomly generated and green lines are trajectory avoiding them.
 
 
 ### Contact ###
